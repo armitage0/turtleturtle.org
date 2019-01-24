@@ -111,7 +111,7 @@ title: TurtleTurtle.org
 [TRTL Farm](https://trtlfarm.com) → First farming game that can be played with TurtleCoins built with TRTL Services  
 [shellnet.pw](https://shellnet.pw) → A web wallet for TurtleCoin payments  
 [Shellmap](https://shellmap.mine2gether.com/) → A graphical interface of world wide earth bound nodes.  
-[Who sent 10 Turtle?](https://whosent10turtles.info/) → A fun game that lets you test TurtleCoin payments with TurtlePay™. 
+[Who sent 10 Turtle?](https://whosent10turtles.info/) → A fun game that lets you test TurtleCoin payments with TurtlePay™.  
 [TurtleWallet.lol](https://turtlewallet.lol) → TRTL Web Wallet with advanced graphs, conversion and export keys functionality.  
 [Swanson Clicker](http://pages.turtlecoin.lol/~xaz/) → Turtle styled clicker game  
 
