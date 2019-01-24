@@ -107,8 +107,8 @@ title: TurtleTurtle.org
 [TwitchTurtle](https://twitchturtle.com) → Streamlabs TurtleCoin integration  
 [trtl.bet](https://trtl.bet) → Simple jackpot site for TurtleCoin built with TurtlePay™  
 [TRTL CLI](https://github.com/turtlecoin/turtle-network-cli) → CLI tool to check TurtleCoin network status and community activity.  
-[TRTL CLI py](https://github.com/turtlecoin/turtleturtle.org/edit/master/index.md) → CLI tool to check TurtleCoin network status and community activity, written in Python.
-[TRTL Farm](https://trtlfarm.com) → First farming game that can be played with TurtleCoins built with TRTL Services
+[TRTL CLI py](https://github.com/turtlecoin/turtleturtle.org/edit/master/index.md) → CLI tool to check TurtleCoin network status and community activity, written in Python.  
+[TRTL Farm](https://trtlfarm.com) → First farming game that can be played with TurtleCoins built with TRTL Services  
 [shellnet.pw](https://shellnet.pw) → A web wallet for TurtleCoin payments  
 [Shellmap](https://shellmap.mine2gether.com/) → A graphical interface of world wide earth bound nodes.  
 [Who sent 10 Turtle?](https://whosent10turtles.info/) → A fun game that lets you test TurtleCoin payments with TurtlePay™. 
